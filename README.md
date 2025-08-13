@@ -144,3 +144,9 @@ This SymboliVerse entry explores how the golden ratio—**φ ≈ 1.618**—emerg
 ## 📜 SymboliVerse Posts
 
 - [Fibonacci Signature in Crop Circle X](posts/fibonacci-crop-circle.md)
+📜 SymboliVerse Posts
+SymboliVerse is a growing archive of symbolic interpretations—where crop circles, gravitational anomalies, and cosmic geometry converge. Each post explores encoded patterns that may reflect intentional transmissions from unknown intelligences or natural symbolic logic.
+
+These entries are designed to provoke thought, inspire research, and bridge the gap between abstract mathematics and metaphysical resonance.
+
+Fibonacci Signature in Crop Circle X Teaser: A golden ratio spiral emerges in a recent crop circle, suggesting encoded geometry and symbolic resonance. Full post available to Patreon subscribers.
